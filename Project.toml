@@ -3,6 +3,8 @@ uuid = "3d68f55c-fe7b-4615-b736-f020b52f0eec"
 authors = ["Donald Seinen"]
 version = "1.0.0-DEV"
 
+[deps]
+
 [compat]
 julia = "1"
 
