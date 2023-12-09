@@ -1,7 +1,5 @@
 # References
 
-hi there!
-
 ```@autodocs
 Modules = [TicTacToes]
 Order   = [:module, :type, :macro, :function, :constant]
