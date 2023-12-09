@@ -17,7 +17,7 @@ Positions on the board are numbered 1-9.
 
 ### Human v Human
 ```
-add https://github.com/D-Se/TicTacToes.git
+add https://github.com/D-Se/TicTacToes.jl.git
 using TicTacToes
 game = TicTacToe()
 play!(game, 1)
